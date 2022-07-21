@@ -6,7 +6,7 @@ This is a simple python program that pushes a sms message when the desired strea
 ## Author
 
 WhimsicalDragon1337 [Twitter](https://twitter.com/Whimsical1337)
-You could've watched me code this live at on [Twitch](https://www.twitch.tv/whimsicaldragon1337) ~~if my internet had been working when I was coding this~~
+You could've watched me code this live on [Twitch](https://www.twitch.tv/whimsicaldragon1337) ~~if my internet had been working when I was coding this~~
 
 ---
 ## Usage

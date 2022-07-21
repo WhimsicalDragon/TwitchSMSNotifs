@@ -72,7 +72,7 @@ def liveCheck(CID,CS):
         revokeToken(CID)
         genToken(CID,CS)
 
-        r = requests.get('https://api.twitch.tv/helix/streams?user_login=catnaps' + CHANNEL, headers=headers)
+        r = requests.get('https://api.twitch.tv/helix/streams?user_login=' + CHANNEL, headers=headers)
         if r.status_code == 401:
             print("Issue with token")
             exit()
